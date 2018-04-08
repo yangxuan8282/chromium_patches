@@ -7636,6 +7636,7 @@ index 0000000..21544e0
 +libudev-dev \
 +libxcb1-dev \
 +libxcb-shm0-dev \
++libxcb-image0-dev \
 +libxss-dev \
 +libxt-dev \
 +libxtst-dev \
